@@ -1,2 +1,3 @@
 # git-git
-nothing
+this is my first project
+going through the things
